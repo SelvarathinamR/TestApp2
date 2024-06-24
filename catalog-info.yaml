@@ -1,0 +1,60 @@
+apiVersion: backstage.io/v1alpha1
+kind: Product
+metadata:
+  name: TestApp2
+  annotations:
+    confluence/page: TestApp 2
+    createdBy: admin
+    createdFrom: Created from Backstage
+    createdAt: Mon Jun 24 2024 18:22:47 GMT+0530 (India Standard Time)
+    updatedFrom: ''
+    lastUpdatedAt: ''
+spec:
+  type: service
+  owner: guest
+  lifecycle: experimental
+  version: TestApp 2
+  projectInfo:
+    projectName: TestApp 2
+    moduleName: ''
+    informationAuthor: ''
+    modality: ''
+    bodyParts: ''
+    processingPurpose: ''
+    protocol: ''
+    algorithmType: ''
+    packageType: ''
+    supportedOs: ''
+    sourceCodeLanguage: ''
+    developmentStatus: ''
+    linkToProject: ''
+  applicationInfo:
+    linkAPI: ''
+    inputImages: ''
+    inputValues: ''
+    outputImages: ''
+    outputValues: ''
+    limitations: ''
+    algorithmDevelopmentCompany: ''
+  productization:
+    productizedApplication: ''
+    function: ''
+    productizedOwner: ''
+    releaseNotes: ''
+    knowIssues: ''
+  evaluationInformation:
+    evaluationResults: ''
+    evaluationType: ''
+    clinicalData: ''
+  algorithmInformation:
+    developmentPurpose: ''
+    developmentStatus: ''
+    algorithmDevelopmentCompany: ''
+    personinCharge: ''
+    collaborativeResearchPartner: ''
+    existenceofExternalIP: ''
+  technologyInformationforCMRE:
+    fundingProject: ''
+    group: IMAGE ANALYSIS
+    TRL: NICE
+    projectStatus: RETIRED
